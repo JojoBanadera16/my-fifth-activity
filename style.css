@@ -22,6 +22,7 @@ img{
     max-width: 1320px;
     margin: 0 auto;
     padding: 0 1.2rem;
+    font-size: small;
 }
 
 /* header */
@@ -166,7 +167,7 @@ img{
 
 /* blog */
 .blog{
-    background: #f9f9f9;
+    background-color: #fffdd0;
     padding: 4.5rem 0;
 }
 .blog-content{
@@ -349,11 +350,10 @@ input[type=text], select, textarea {
     background-color: #747474;
   }
   
-  /* Style the container/contact section */
+  /* Style the container */
   .containers {
     border-radius: 5px;
-    background-image: url(images2/ps5.jpg);
-    background-color: #f2f2f2;
+    background-color: #fffdd0;
     padding: 10px;
   }
   
